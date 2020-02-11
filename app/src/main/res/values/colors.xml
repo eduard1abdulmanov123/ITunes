@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">#B3000000</color>
+    <color name="colorAccent">#B3000000</color>
+
+    <color name="color_text_primary">#B3000000</color>
+    <color name="color_text_secondary">#B3000000</color>
+
+    <color name="color_icon">#B3000000</color>
+    <color name="color_stroke_image">#BDBDBD</color>
+
+    <color name="color_button">#4285F4</color>
+</resources>

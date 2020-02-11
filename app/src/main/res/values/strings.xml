@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">iTunes</string>
+
+    <!--error-->
+    <string name="error">ОЙ! Что-то пошло не так</string>
+    <string name="error_refresh">ПОВТОРИТЬ</string>
+    <string name="error_network">Проверьте соединение с интернетом или немного подождите</string>
+    <string name="error_server">Возможно ведуться технические работы</string>
+
+    <!--search-->
+    <string name="search_edit_text_hint">Поиск альбомов</string>
+    <string name="search_empty_data">По вашему запросу ничего не нашлось</string>
+    <string name="search_start_search">Вы еще ничего не искали</string>
+
+    <!--details_album-->
+    <string name="details_album_tracks">Треки</string>
+    <string name="details_album_send">Отправить другу</string>
+    <plurals name="details_album_count_track">
+        <item quantity="one">%d композиция</item>
+        <item quantity="few">%d композиции</item>
+        <item quantity="other">%d композиций</item>
+    </plurals>
+    <array name="details_album_month">
+        <item>января</item>
+        <item>февраля</item>
+        <item>марта</item>
+        <item>апреля</item>
+        <item>мая</item>
+        <item>июня</item>
+        <item>июля</item>
+        <item>августа</item>
+        <item>сентября</item>
+        <item>октября</item>
+        <item>ноября</item>
+        <item>декабря</item>
+    </array>
+</resources>
